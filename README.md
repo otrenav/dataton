@@ -6,9 +6,9 @@
 # Datatón's winner project
 
 With this project we won the national Data Science contest "Datatón" 2014
-organized by the Presidential Office in Mexico. It was developed by [Omar
-Trejo](http://links.datata.mx/linkedin-omar-trejo) and [Luis Manuel
-Román](https://github.com/lromang) during a two weak period in June 2014.
+organized by the Presidential Office in Mexico. It was developed by Omar Trejo
+and Luis Manuel Román during a two weak period in June 2014.
+
 
 ## General ideas
 
