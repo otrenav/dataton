@@ -1,4 +1,8 @@
 
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
+
+---
+
 # Datatón's winner project
 
 With this project we won the national Data Science contest "Datatón" 2014
@@ -35,3 +39,7 @@ the closest hospital available, the route and the phone number. The route
 provided is optimal and it is taken through the [Google Directions
 API](https://developers.google.com/maps/documentation/directions/) so that it
 incorporates traffic status.
+
+---
+
+> "We are the people we have been waiting for."
